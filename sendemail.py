@@ -24,9 +24,9 @@ messagetosend = message.format(
 
 # Credentials (if needed)
 
-username = 'adrene.mcintosh@gmail.com'
+username = ''
 
-password = 'pzuq wjnd mfmf txyg'
+password = ''
 
 
 # Prepare actual message
